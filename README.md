@@ -3,5 +3,5 @@
 
 Запускается стандартной командой из терминала: 
 ```
->>>python manage.py runserver
+python manage.py runserver
 ```
