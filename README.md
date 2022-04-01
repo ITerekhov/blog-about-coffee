@@ -1,5 +1,7 @@
-# blog-about-coffee
-Training project, writted on Python and Django framework
+## Blog about coffee
+###Training project, written to get the first experience with Django templates
 
-Для запуска необохдимо перейти в директорию blog и прописать скрипт (для linux): 
+Запускается стандартноц командой из терминала: 
+```
 >>>python manage.py runserver
+```
