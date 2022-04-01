@@ -1,7 +1,7 @@
 ## Blog about coffee
-###Training project, written to get the first experience with Django templates
+### Training project, written to get the first experience with Django templates
 
-Запускается стандартноц командой из терминала: 
+Запускается стандартной командой из терминала: 
 ```
 >>>python manage.py runserver
 ```
